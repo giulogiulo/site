@@ -1,5 +1,5 @@
 ---
-title: My first test
+title: My second test
 ---
 
-Wow.
+This is my second test.
